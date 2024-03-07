@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+ }
+ 
+ header img {
+    height: 50px;
+ }
+ 
+ header nav ul {
+    list-style-type: none;
+ }
+ 
+ header nav ul li {
+    display: inline;
+    margin: 0 10px;
+ }
+ 
+ header nav ul li a {
+    color: white;
+    text-decoration: none;
+ }
+.footer{
+    background-color: rgb(0, 99, 174);
+    height: 50px;
+}
