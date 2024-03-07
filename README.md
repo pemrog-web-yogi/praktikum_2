@@ -1,2 +1,2 @@
-# pertemuan_2
+# Kelas Pemrograman pertemuan_2
 kelas PW pertemuan 2
